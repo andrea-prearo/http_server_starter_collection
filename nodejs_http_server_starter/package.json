@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_http_server_starter",
+  "version": "0.1.0",
+  "description": "A minimalistic Node.js HTTP server app using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrea-prearo/http_server_starter_collection"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Andrea Prearo <andrea.prearo@gmail.com>",
+  "license": "MIT"
+}
